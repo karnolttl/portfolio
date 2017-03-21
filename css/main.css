@@ -110,7 +110,12 @@ header {
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 350px;
+    height: auto;
+}
+
+header a {
+    color: white;
+    margin: 0rem .5rem;
 }
 
 .intro-block span {
